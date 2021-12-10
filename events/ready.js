@@ -9,7 +9,7 @@ module.exports = class {
     setInterval(async () => {
       this.client.appInfo = await this.client.fetchApplication();
     }, 60000);
-    this.client.user.setActivity("Can ❤️ Can.");
+    this.client.user.setActivity("Valena ❤️ Wolyo");
     const guild = this.client.guilds.cache.get(this.client.config.guildID);
 		if(guild) {
 			await guild.members.fetch();
