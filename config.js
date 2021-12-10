@@ -1,12 +1,12 @@
 const config = {
-"botStatus": ["can"],
-"botOwners": ["888081151061815336"],
-"guildID": "902297914590785618",
-"botVoiceChannel": "902297916914430008",
+"botStatus": ["wolyo"],
+"botOwners": ["810161653756198933"],
+"guildID": "915554557461950475",
+"botVoiceChannel": "915576192919298100",
 "BotToken": "",
 
 "roles": {
-  "familyRole": "902297914775339076"
+  "familyRole": "915576516291739708"
 },
    
    "event": {
