@@ -133,7 +133,7 @@ const init = async () => {
     delete require.cache[require.resolve(`./events/${file}`)];
   });
 
-client.login(keys.BotToken);
+client.login(process.env.token);
 
 };
 
